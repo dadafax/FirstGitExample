@@ -1,1 +1,1 @@
-CC LA TEAM
+CC
